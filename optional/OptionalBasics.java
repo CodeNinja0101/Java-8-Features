@@ -15,7 +15,7 @@ public class OptionalBasics {
         }
 
         // Using orElse to provide a default
-        String emailValue = email.orElse("demo@gmail.com");
+        String emailValue = email.orElse("shri@gmail.com");
         System.out.println("Email: " + emailValue);
 
         // Using ifPresent to perform an action
