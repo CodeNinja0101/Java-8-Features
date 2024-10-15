@@ -32,10 +32,10 @@ This repository covers the following Java 8 features with backend-oriented code 
 ```bash
 Java-8-Backend-Features-Practice/
 │
-├── LambdaExpressions/
+├── lambda_expressions/
 ├── StreamsAPI/
 ├── Optional/
-├── DefaultMethods/
+├── default_methods/
 ├── MethodReferences/
 ├── DateAndTimeAPI/
 ├── Collectors/

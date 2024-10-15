@@ -1,4 +1,4 @@
-package DefaultMethods;
+package default_methods;
 
 public class PaymentClass {
     public static void main(String[] args) {

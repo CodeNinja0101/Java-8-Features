@@ -1,4 +1,4 @@
-package DefaultMethods;
+package default_methods;
 
 public class CreditCardProcessor implements PaymentProcessor {
     @Override

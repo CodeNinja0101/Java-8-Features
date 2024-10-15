@@ -1,8 +1,7 @@
-package StreamAPI;
+package stream_api;
 
 import java.util.*;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class StreamCollectors {
 

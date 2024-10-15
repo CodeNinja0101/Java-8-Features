@@ -1,4 +1,4 @@
-package DefaultMethods;
+package default_methods;
 
 public interface PaymentProcessor {
     void processPayment(double amount);
